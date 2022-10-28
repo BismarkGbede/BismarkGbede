@@ -14,4 +14,4 @@ My role as a software engineer was to implement the functionality of rating and 
 - Created new branches to maintain organization throughout the project.
 - Performed commits and pull requests to secure consistency and quality.
 - Participated in daily stand-ups, code review, and code talks with team members to ensure cohesive implementation of code.
--->
+
